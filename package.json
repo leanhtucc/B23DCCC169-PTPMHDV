@@ -1,0 +1,19 @@
+{
+  "name": "btweb-20-11",
+  "version": "1.0.0",
+  "main": "src/fee.js",
+  "scripts": {
+    "bank": "node src/bank.js",
+    "fee": "node src/fee.js",
+    "test2": "node src/test-th2.js",
+    "test3": "node src/test-th3.js",
+    "test4": "node src/test-th4.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
